@@ -1,12 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+Welcome to **Cinetools** — an organization dedicated to building tools around movies.
 
-**Here are some ideas to get you started:**
+## Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### CineFetch
+CineFetch is an asynchronous Python tool designed to fetch movie data from TMDb.
+
+#### CinePy
+CinePy is a Python‑based movie recommendation system that generates personalized movie suggestions.
+
+
+## Contributing
+Contributions are welcome. Issues, feature requests, and pull requests help improve the tools and expand the ecosystem.
+
+## Resources
+Documentation and usage examples are available within each repository. Explore the repos to get started and integrate these tools into your projects.
+
+---
+
+Cinetools is all about making movie data accessible, useful, and fun to work with.
